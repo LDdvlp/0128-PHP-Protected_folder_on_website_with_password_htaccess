@@ -1,0 +1,104 @@
+body {
+    background-color:#900C3F;
+}
+
+header {
+    background-color:#C70039;
+    
+}
+
+h1 {
+    color: LightGray;
+    width: 80%;
+    margin : auto auto;
+    text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.infos {
+    color:MidnightBlue;
+    background-color:#FFC300;
+    padding: 1% 15% 2% 15%;
+}
+
+.ids {
+    color:MidnightBlue;
+    font-size: 16px;
+    line-height: 21px;
+    background-color:#58d68d ;
+    padding: 4% 15% 4% 15%;
+}
+
+table tr:nth-child(3) td input {
+    background-color: #28b463;
+    padding: 0.6em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.sources {
+    color: Gainsboro;
+    background-color:#900C3F;
+    padding: 1% 15% 1% 15%;
+}
+
+.sources a {
+    color: WhiteSmoke;
+}
+
+.crypt {
+    color: Crimson;
+    background-color: Lavender;
+    padding: 1% 15% 2% 15%;
+}
+
+.crypt h2 {
+    color: Indigo;
+}
+
+.crypt h3 {
+    color: DarkSlateBlue;
+}
+
+.crypt h4 {
+    color: SlateBlue;
+
+}
+.crypt h5 {
+    color: SlateBlue;
+}
+
+.genfile {
+    color: Crimson;
+    background-color: GreenYellow;
+    padding: 1% 15% 2% 15%;
+}
+
+.genfile h2 {
+    color: Indigo;
+}
+.genfile h3 {
+    color: DarkSlateBlue;
+}
+
+.timestable {
+    color:MidnightBlue;
+    background-color:#FFC300;
+    padding: 1% 15% 2% 15%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+
+table th, table td {
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid DarkSlateBlue;
+    padding: 1em;
+}
