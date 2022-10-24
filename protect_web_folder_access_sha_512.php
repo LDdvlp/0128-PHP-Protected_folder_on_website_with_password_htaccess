@@ -23,8 +23,8 @@ if (isset($_POST['username']) and isset($_POST['password'])) {
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/mystyle.css">
+        <link rel="stylesheet" href="css-secondary/normalize.css">
+        <link rel="stylesheet" href="css-secondary/mystyle.css">
         
     </head>';
     
@@ -282,8 +282,8 @@ if (isset($_POST['username']) and isset($_POST['password'])) {
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/mystyle.css">
+    <link rel="stylesheet" href="css-secondary/normalize.css">
+    <link rel="stylesheet" href="css-secondary/mystyle.css">
 
 </head>
 
